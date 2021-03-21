@@ -1,4 +1,4 @@
-//importing flask, make sure flask is installed
+#importing flask, make sure flask is installed
 from flask import Flask
 import wtforms
 
